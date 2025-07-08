@@ -1,0 +1,15 @@
+{
+  "name": "researchassignments",
+  "version": "1.0.0",
+  "description": "このリポジトリは、過去に自身で制作したオリジナルゲームのリメイク作品です。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
