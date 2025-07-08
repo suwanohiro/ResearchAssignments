@@ -1,0 +1,77 @@
+import { KeyNameType } from "./KeyNameType";
+
+export default class KeyName {
+    public static get A(): KeyNameType { return "a"; }
+    public static get B(): KeyNameType { return "b"; }
+    public static get C(): KeyNameType { return "c"; }
+    public static get D(): KeyNameType { return "d"; }
+    public static get E(): KeyNameType { return "e"; }
+    public static get F(): KeyNameType { return "f"; }
+    public static get G(): KeyNameType { return "g"; }
+    public static get H(): KeyNameType { return "h"; }
+    public static get I(): KeyNameType { return "i"; }
+    public static get J(): KeyNameType { return "j"; }
+    public static get K(): KeyNameType { return "k"; }
+    public static get L(): KeyNameType { return "l"; }
+    public static get M(): KeyNameType { return "m"; }
+    public static get N(): KeyNameType { return "n"; }
+    public static get O(): KeyNameType { return "o"; }
+    public static get P(): KeyNameType { return "p"; }
+    public static get Q(): KeyNameType { return "q"; }
+    public static get R(): KeyNameType { return "r"; }
+    public static get S(): KeyNameType { return "s"; }
+    public static get T(): KeyNameType { return "t"; }
+    public static get U(): KeyNameType { return "u"; }
+    public static get V(): KeyNameType { return "v"; }
+    public static get W(): KeyNameType { return "w"; }
+    public static get X(): KeyNameType { return "x"; }
+    public static get Y(): KeyNameType { return "y"; }
+    public static get Z(): KeyNameType { return "z"; }
+    public static get Space(): KeyNameType { return " "; }
+    public static get Enter(): KeyNameType { return "Enter"; }
+    public static get Escape(): KeyNameType { return "Escape"; }
+    public static get ArrowUp(): KeyNameType { return "ArrowUp"; }
+    public static get ArrowDown(): KeyNameType { return "ArrowDown"; }
+    public static get ArrowLeft(): KeyNameType { return "ArrowLeft"; }
+    public static get ArrowRight(): KeyNameType { return "ArrowRight"; }
+    public static get Shift(): KeyNameType { return "Shift"; }
+    public static get Control(): KeyNameType { return "Control"; }
+    public static get Alt(): KeyNameType { return "Alt"; }
+    public static get Backspace(): KeyNameType { return "Backspace"; }
+    public static get Tab(): KeyNameType { return "Tab"; }
+    public static get Delete(): KeyNameType { return "Delete"; }
+    public static get Home(): KeyNameType { return "Home"; }
+    public static get End(): KeyNameType { return "End"; }
+    public static get PageUp(): KeyNameType { return "PageUp"; }
+    public static get PageDown(): KeyNameType { return "PageDown"; }
+    public static get CapsLock(): KeyNameType { return "CapsLock"; }
+    public static get NumLock(): KeyNameType { return "NumLock"; }
+    public static get ScrollLock(): KeyNameType { return "ScrollLock"; }
+    public static get F1(): KeyNameType { return "F1"; }
+    public static get F2(): KeyNameType { return "F2"; }
+    public static get F3(): KeyNameType { return "F3"; }
+    public static get F4(): KeyNameType { return "F4"; }
+    public static get F5(): KeyNameType { return "F5"; }
+    public static get F6(): KeyNameType { return "F6"; }
+    public static get F7(): KeyNameType { return "F7"; }
+    public static get F8(): KeyNameType { return "F8"; }
+    public static get F9(): KeyNameType { return "F9"; }
+    public static get F10(): KeyNameType { return "F10"; }
+    public static get F11(): KeyNameType { return "F11"; }
+    public static get F12(): KeyNameType { return "F12"; }
+    public static get PrintScreen(): KeyNameType { return "PrintScreen"; }
+    public static get Insert(): KeyNameType { return "Insert"; }
+    public static get ContextMenu(): KeyNameType { return "ContextMenu"; }
+    public static get Pause(): KeyNameType { return "Pause"; }
+    public static get Num0(): KeyNameType { return "0"; }
+    public static get Num1(): KeyNameType { return "1"; }
+    public static get Num2(): KeyNameType { return "2"; }
+    public static get Num3(): KeyNameType { return "3"; }
+    public static get Num4(): KeyNameType { return "4"; }
+    public static get Num5(): KeyNameType { return "5"; }
+    public static get Num6(): KeyNameType { return "6"; }
+    public static get Num7(): KeyNameType { return "7"; }
+    public static get Num8(): KeyNameType { return "8"; }
+    public static get Num9(): KeyNameType { return "9"; }
+}
+

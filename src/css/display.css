@@ -1,0 +1,14 @@
+#display {
+    background-color: red;
+}
+
+.display-fullscreen {
+    width: 100vw;
+    height: 100vh;
+}
+
+.display-16x9 {
+    aspect-ratio: 16 / 9;
+    width: min(100svw, calc(100vh * 16 / 9));
+    height: min(100svh, calc(100vw * 9 / 16));
+}

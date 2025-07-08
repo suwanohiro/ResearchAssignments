@@ -1,0 +1,1 @@
+export type DisplaySettingType = "fullscreen" | "16x9";

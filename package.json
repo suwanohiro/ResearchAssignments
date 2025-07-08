@@ -4,12 +4,16 @@
   "description": "このリポジトリは、過去に自身で制作したオリジナルゲームのリメイク作品です。",
   "main": "index.js",
   "scripts": {
+    "build": "node build.js",
+    "watch": "node build.js --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "esbuild": "^0.25.6",
+    "ts-nameof": "^5.0.0",
     "typescript": "^5.8.3"
   }
 }
